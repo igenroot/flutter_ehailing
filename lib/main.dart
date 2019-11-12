@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Jenkins Demo'),
+      home: MyHomePage(title: 'Jenkins Demo Testing'),
     );
   }
 }
